@@ -22,7 +22,7 @@ By combining robust security, cross-border compatibility, and fraud prevention m
 
 - Python 3.9+
 - PostgreSQL
-- `pip` or
+- `pip`
 
 
 
