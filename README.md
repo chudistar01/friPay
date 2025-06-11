@@ -22,7 +22,7 @@ By combining robust security, cross-border compatibility, and fraud prevention m
 
 - Python 3.9+
 - PostgreSQL
-- `pip` or `poetry` for dependency management
+- `pip` or
 
 
 
@@ -37,7 +37,7 @@ This project is **open source** under the Apache 2.0 License (LICENSE) for perso
 
 
 💼 ** ➡️ **For commercial use**, you must obtain a commercial license.  
-📧 Contact: (mailto:starlyspring@gmail.com)
+📧 Contact: (mailto: starlyspring@gmail.com)
 
 ---
 
@@ -45,7 +45,7 @@ This project is **open source** under the Apache 2.0 License (LICENSE) for perso
 
 ## ❤️ Support & Sponsorship
 
-If you find this project useful, consider sponsoring  on GitHub(https://github.com/sponsors/chudistar01) to support continued development, security updates, and accessibility improvements.
+If you find this project useful, consider sponsoring  on GitHub (https://github.com/sponsors/chudistar01) to support continued development, security updates, and accessibility improvements.
 
 Your sponsorship helps build inclusive financial tools for everyone, everywhere.
 
