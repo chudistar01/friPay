@@ -30,6 +30,8 @@ By combining robust security, cross-border compatibility, and fraud prevention m
 
 ### Installations
 
+
+
 ## 📜 License
 
 This project is **open source** under the Apache 2.0 License (LICENSE) for personal, educational, and non-commercial use.
